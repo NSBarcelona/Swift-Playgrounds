@@ -95,9 +95,11 @@ emojifyChristian(testString)
 //Correct answer, but requires declaration of all emojis to work
 emojifyDaferpi(testString)
 
+//Correct answer, array is not ordered
+emojifyMiguel(testString)
+
 //Good answers, but fails to catch Spanish flag emoji
 emojifyJuan(testString)
 
 //Also fail to catch Spanish flat emoji, and return order incorrect
-emojifyMiguel(testString)
 emojifyLluis(testString)
